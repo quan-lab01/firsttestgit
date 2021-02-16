@@ -2,3 +2,4 @@ firstgit
 test
 git add,gitcom,git status 
 
+git diff
